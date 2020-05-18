@@ -1,0 +1,27 @@
+body {
+padding: 20px 20px;
+color: gray;
+font-family: cursive;
+font-size: 25px;
+}
+.top{
+text-align: center;
+}
+.act{
+text-align: center;
+font-size: 30px;
+}
+h1{
+display: block;
+color: #8845f4;
+border: 2px double #8845f4;
+}
+.activity{
+background-color: rgba(136,69,244);
+border-radius: 50px;
+padding: 10px 25px;
+color: white;
+}
+em { 
+text-decoration: underline;
+}
